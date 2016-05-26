@@ -1,0 +1,58 @@
+/*
+ for chrome only
+*/
+body {
+    margin: 1em 50px 1em 30px;
+    background-color: #dfeaa9;
+}
+
+/*
+ Layout
+*/
+nav {
+    float: left;
+    width: 200px;
+    background-color: #43b47e;
+}
+
+main {
+    margin-left: 210px;
+    padding: 0.2em 0;
+    background-color: #fff;
+}
+
+/*
+ Elements
+*/
+h1 {
+    color: #13904e;
+    font-weight: normal;
+    font-size: 140%;
+}
+
+h2 {
+    padding: 0.3em 16px;
+    color: #13904e;
+    background-color: #fff;
+    font-weight: normal;
+    font-size: 120%;
+    border: 2px solid #ebadb6;
+    margin: 0.8em 16px;
+}
+
+p {
+    margin: 1em 16px;
+    color: #666;
+    font-size: 100%;
+}
+
+ul {
+    margin: 0.8em 20px;
+    padding: 0;
+    color: #fff;
+}
+
+li {
+    margin: 0.2em 8px;
+    font-size: 100%;
+}
